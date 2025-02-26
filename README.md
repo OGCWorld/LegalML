@@ -1,4 +1,3 @@
-# LegalML
  Legal Machine Learning Portfolio
 # ML Legal Portfolio
 
