@@ -1,4 +1,3 @@
- Legal Machine Learning Portfolio
 # ML Legal Portfolio
 
 This repository contains multiple machine learning projects focused on legal applications.
