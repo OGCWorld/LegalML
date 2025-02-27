@@ -10,17 +10,17 @@
   "log_history": [
     {
       "epoch": 1.0,
-      "grad_norm": 14.90728759765625,
+      "grad_norm": 10.384262084960938,
       "learning_rate": 3.3333333333333335e-05,
-      "loss": 1.5419,
+      "loss": 1.5826,
       "step": 1
     },
     {
       "epoch": 1.0,
-      "eval_loss": 1.1647428274154663,
-      "eval_runtime": 0.1842,
-      "eval_samples_per_second": 5.43,
-      "eval_steps_per_second": 5.43,
+      "eval_loss": 2.348315715789795,
+      "eval_runtime": 0.2815,
+      "eval_samples_per_second": 3.553,
+      "eval_steps_per_second": 3.553,
       "step": 1
     }
   ],
@@ -41,7 +41,7 @@
       "attributes": {}
     }
   },
-  "total_flos": 1052463120384.0,
+  "total_flos": 1052472569856.0,
   "train_batch_size": 4,
   "trial_name": null,
   "trial_params": null

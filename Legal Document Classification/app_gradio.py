@@ -27,4 +27,4 @@ interface = gr.Interface(
 )
 
 # Launch app
-interface.launch()
+interface.launch(share=True)
